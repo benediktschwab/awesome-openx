@@ -33,12 +33,12 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
 ## Libraries
 
 - OpenDRIVE
-  - [pyodrx](https://github.com/pyoscx/pyodrx) - Python wrapper for generating OpenDRIVE 1.5 datasets. `MPL-2.0` `Python`
   - [pyeulerspiral](https://github.com/stefan-urban/pyeulerspiral) - Python implementation of euler spirals (clothoids). `MIT` `Python`
   - [C++ Object Structures](https://github.com/DLR-TS/xodr) - Data structures of OpenDRIVE 1.4 in C++. `Apache-2.0` `C++`
   - [odrSpiral](https://github.com/DLR-TS/odrSpiral) - C++ implementation of euler spirals (clothoids). `Apache-2.0` `C++`
 - OpenSCENARIO
   - [openscenario.api.test](https://github.com/RA-Consulting-GmbH/openscenario.api.test) - Java library for reading and processing scenarios (C++ in progress). `Apache-2.0` `Java`
+- OpenSCENARIO + OpenDRIVE
   - [scenariogeneration](https://github.com/pyoscx/scenariogeneration) - Python wrapper for parametrizing and generating linked OpenSCENARIO and OpenDRIVE datasets (formerly known as [pyodrx](https://github.com/pyoscx/pyodrx) & [pyoscx](https://github.com/pyoscx/pyoscx) project). `MPL-2.0` `Python`
 
 ## Data Structures & Models
