@@ -22,6 +22,7 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
 - [esmini](https://github.com/esmini/esmini) - OpenSCENARIO player. ([Source Code](https://github.com/esmini/esmini)) `MPL-2.0` `C++`
 - [OpenRoadEd](https://github.com/fhwedel-hoe/OpenRoadEd) - GUI application to create road networks in OpenDRIVE and a corresponding graphical representation in OpenSceneGraph. ([Source Code](https://github.com/fhwedel-hoe/OpenRoadEd)) `C++`
 - [ODDLOT](https://www.hlrs.de/solutions-services/service-portfolio/visualization/driving-simulator/oddlot/) - GUI application for the creation of road networks and graphical representations as part of [COVISE](https://www.hlrs.de/covise/). ([Source Code](https://github.com/hlrs-vis/covise/tree/master/src/OpenCOVER/DrivingSim/oddlot)) `LGPL-2.1` `C++`
+- [Blender Driving Scenario Creator](https://github.com/johschmitz/blender-driving-scenario-creator) Blender add-on for creating simple OpenDRIVE and OpenSCENARIO based driving scenarios including 3D models
 
 ## Converters
 
