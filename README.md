@@ -1,8 +1,9 @@
 # Awesome OpenX [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-A curated list of awesome applications, libraries and datasets concerning the development and testing of automated driving functions with a focus on [ASAM OpenX Standards](https://www.asam.net/standards/domain-simulation/).
+A curated list of awesome applications, libraries and datasets concerning the development and testing of automated driving functions with a focus on [ASAM OpenX Standards](https://www.asam.net/standards/) (e.g. [OpenDRIVE](https://www.asam.net/standards/detail/opendrive/), [OpenSCENARIO](https://www.asam.net/standards/detail/openscenario/), ...).
 
 This is a list of [free](https://en.wikipedia.org/wiki/Free_software) software and datasets, whereas non-free software will be listed on the [non-free](non-free.md) page.
+Also, check out ASAM's official [open source platform](https://github.com/asam-oss).
 The structure of this list was inspired by [awesome selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted).
 
 --------------------
@@ -58,4 +59,4 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
   - [esmini](https://github.com/esmini/esmini/tree/master/resources/xodr) - Sample datasets distributed as part of esmini project.
   - [ODDLOT](https://github.com/hlrs-vis/covise/tree/master/src/OpenCOVER/DrivingSim/oddlot/samples) - Sample datasets distributed as part of ODDLOT project.
 - OpenSCENARIO
-  - [OSC-ALKS-scenarios](https://github.com/arauschert/OSC-ALKS-scenarios) - Test scenarios for the approval of an "Automated Lane Keeping System" on motorways according to the [ALKS Regulation UN R157](https://undocs.org/ECE/TRANS/WP.29/2020/81). `CC-BY-SA-4.0`
+  - [OSC-ALKS-scenarios](https://github.com/asam-oss/OSC-ALKS-scenarios) - Test scenarios for the approval of an "Automated Lane Keeping System" on motorways according to the [ALKS Regulation UN R157](https://undocs.org/ECE/TRANS/WP.29/2020/81). `CC-BY-SA-4.0`
