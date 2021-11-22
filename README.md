@@ -30,7 +30,7 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
 - [r:trån](https://rtron.io) - Transformer of OpenDRIVE geometries and semantics to CityGML enabling the usage of the [3dcitydb](https://github.com/3dcitydb/3dcitydb), [FME](https://www.safe.com/fme/) and much more. ([Source Code](https://github.com/tum-gis/rtron), [Demos](https://rtron.io)) `Apache-2.0` `Kotlin`
 - [OpenDRIVE2Lanelet Converter](https://commonroad.in.tum.de/opendrive_lanelet_converter) - Python converter of OpenDRIVE datasets to the Lanelet format as part of the [CommonRoad](https://commonroad.in.tum.de) project. ([Source Code](https://gitlab.lrz.de/tum-cps/opendrive2lanelet/-/tree/master)) `GPL-3.0` `Python`
 - [GDAL Driver](https://github.com/DLR-TS/gdal) - OpenDRIVE driver for the library [GDAL](https://gdal.org) (translation of raster and vector geospatial data). `C++`
-- [osm2opendrive](https://github.com/CWGran/osm2opendrive) - Tool for generating OpenDRIVE datasets from OpenStreetMap data. `Python`
+- [osm2opendrive](https://github.com/CWGran/osm2opendrive) - Tool for generating OpenDRIVE datasets from OpenStreetMap data. `GPL-3.0` `Python`
 
 ## Libraries
 
@@ -52,7 +52,7 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
 
 - OpenDRIVE
   - [ASAM OpenDRIVE 1.6](https://www.asam.net/standards/detail/opendrive/) - Along with the official standard specification, example OpenDRIVE 1.6 datasets are distributed by ASAM.
-  - [3D Mapping Solutions](https://www.3d-mapping.de/en/customer-area/) - Seven surveyed tracks in OpenDRIVE and partly in OpenCRG, including a complex intersection and the inner city of Ingolstadt (complementary to [LoD3 models](https://github.com/savenow/lod3-road-space-models)).
+  - [3D Mapping Solutions](https://www.3d-mapping.de/en/customer-area/) - Seven surveyed tracks in OpenDRIVE and partly in OpenCRG, including a complex intersection and the inner city of Ingolstadt (complementary to [LoD3 models](https://github.com/savenow/lod3-road-space-models)). `CC-BY-NC-SA-4.0`
   - [Atlatec](https://www.atlatec.de/getsampledata.html) - Surveyed tracks in San Francisco and in Spain along with 3D models by the company Atlatec GmbH.
   - [Brunswick](https://zenodo.org/record/4043193) - Inner ring road of Brunswick surveyed in 2012 by 3D Mapping Solutions. `CC-BY-4.0`
   - [CARLA](https://github.com/carla-simulator/opendrive-test-files) - A set of seven road networks generated with MathWorks RoadRunner.
