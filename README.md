@@ -31,6 +31,7 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
 - [OpenDRIVE2Lanelet Converter](https://commonroad.in.tum.de/opendrive_lanelet_converter) - Python converter of OpenDRIVE datasets to the Lanelet format as part of the [CommonRoad](https://commonroad.in.tum.de) project. ([Source Code](https://gitlab.lrz.de/tum-cps/opendrive2lanelet/-/tree/master)) `GPL-3.0` `Python`
 - [GDAL Driver](https://github.com/DLR-TS/gdal) - OpenDRIVE driver for the library [GDAL](https://gdal.org) (translation of raster and vector geospatial data). `C++`
 - [osm2opendrive](https://github.com/CWGran/osm2opendrive) - Tool for generating OpenDRIVE datasets from OpenStreetMap data. `GPL-3.0` `Python`
+- [osm2xodr](https://github.com/JHMeusener/osm2xodr) - Tool for generating OpenDRIVE datasets from OpenStreetMap data. `GPL-3.0` `Python`
 
 ## Libraries
 
