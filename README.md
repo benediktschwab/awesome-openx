@@ -57,6 +57,7 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
   - [3D Mapping Solutions](https://www.3d-mapping.de/en/customer-area/) - Seven surveyed tracks in OpenDRIVE and partly in OpenCRG, including a complex intersection and the inner city of Ingolstadt (complementary to [LoD3 models](https://github.com/savenow/lod3-road-space-models)). `CC-BY-NC-SA-4.0`
   - [Atlatec](https://www.atlatec.de/getsampledata.html) - Surveyed tracks in San Francisco and in Spain along with 3D models by the company Atlatec GmbH.
   - [Brunswick](https://zenodo.org/record/4043193) - Inner ring road of Brunswick surveyed in 2012 by 3D Mapping Solutions. `CC-BY-4.0`
+  - [German Autobahn A9](https://service.mdm-portal.de/mdm-portal-application/publDetail.do?publicationId=2594000) - Two sections of the German Autobahn A9 with a total length of 52km.
   - [CARLA](https://github.com/carla-simulator/opendrive-test-files) - A set of seven road networks generated with MathWorks RoadRunner.
   - [esmini](https://github.com/esmini/esmini/tree/master/resources/xodr) - Sample datasets distributed as part of esmini project.
   - [ODDLOT](https://github.com/hlrs-vis/covise/tree/master/src/OpenCOVER/DrivingSim/oddlot/samples) - Sample datasets distributed as part of ODDLOT project.
