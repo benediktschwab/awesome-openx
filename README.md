@@ -40,6 +40,7 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
   - [pyeulerspiral](https://github.com/stefan-urban/pyeulerspiral) - Python implementation of euler spirals (clothoids). `MIT` `Python`
   - [C++ Object Structures](https://github.com/DLR-TS/xodr) - Data structures of OpenDRIVE 1.4 in C++. `Apache-2.0` `C++`
   - [odrSpiral](https://github.com/DLR-TS/odrSpiral) - C++ implementation of euler spirals (clothoids). `Apache-2.0` `C++`
+  - [libOpenDRIVE](https://github.com/grepthat/libOpenDRIVE) - Lightweight, fast C++ library providing OpenDRIVE file parsing and 3D model generation as well as a [web-based viewer](https://sebastian-pagel.net). `Apache-2.0` `C++`
 - OpenSCENARIO
   - [openscenario.api.test](https://github.com/RA-Consulting-GmbH/openscenario.api.test) - Java library for reading and processing scenarios (C++ in progress). `Apache-2.0` `Java`
 - OpenSCENARIO + OpenDRIVE
