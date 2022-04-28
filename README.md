@@ -54,7 +54,7 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
 ## Datasets
 
 - OpenDRIVE
-  - [ASAM OpenDRIVE 1.6](https://www.asam.net/standards/detail/opendrive/) - Along with the official standard specification, example OpenDRIVE 1.6 datasets are distributed by ASAM.
+  - [ASAM OpenDRIVE 1.7.0](https://www.asam.net/standards/detail/opendrive/) - Along with the official standard specification, example OpenDRIVE 1.7.0 datasets are distributed by ASAM.
   - [3D Mapping Solutions](https://www.3d-mapping.de/en/customer-area/) - Seven surveyed tracks in OpenDRIVE and partly in OpenCRG, including a complex intersection and the inner city of Ingolstadt (complementary to [LoD3 models](https://github.com/savenow/lod3-road-space-models)). `CC-BY-NC-SA-4.0`
   - [Atlatec](https://www.atlatec.de/getsampledata.html) - Surveyed tracks in San Francisco and in Spain along with 3D models by the company Atlatec GmbH.
   - [Brunswick](https://zenodo.org/record/4043193) - Inner ring road of Brunswick surveyed in 2012 by 3D Mapping Solutions. `CC-BY-4.0`
