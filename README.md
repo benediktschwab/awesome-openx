@@ -1,6 +1,6 @@
 # Awesome OpenX [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-A curated list of awesome applications, libraries and datasets concerning the development and testing of automated driving functions with a focus on [ASAM OpenX Standards](https://www.asam.net/standards/) (e.g. [OpenDRIVE](https://www.asam.net/standards/detail/opendrive/), [OpenSCENARIO](https://www.asam.net/standards/detail/openscenario/), ...).
+A curated list of awesome applications, libraries and datasets concerning the development and testing of automated driving functions with a focus on [ASAM OpenX Standards](https://www.asam.net/standards/) (e.g. [OpenDRIVE](https://www.asam.net/standards/detail/opendrive/), [OpenSCENARIO](https://www.asam.net/standards/detail/openscenario/), [OpenLABEL](https://www.asam.net/standards/detail/openlabel/), ...).
 
 This is a list of [free](https://en.wikipedia.org/wiki/Free_software) software and datasets, whereas non-free software will be listed on the [non-free](non-free.md) page.
 Also, check out ASAM's official [open source platform](https://github.com/asam-oss).
@@ -45,6 +45,8 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
   - [openscenario.api.test](https://github.com/RA-Consulting-GmbH/openscenario.api.test) - Java library for reading and processing scenarios (C++ in progress). `Apache-2.0` `Java`
 - OpenSCENARIO + OpenDRIVE
   - [scenariogeneration](https://github.com/pyoscx/scenariogeneration) - Python wrapper for parametrizing and generating linked OpenSCENARIO and OpenDRIVE datasets (formerly known as [pyodrx](https://github.com/pyoscx/pyodrx) & [pyoscx](https://github.com/pyoscx/pyoscx) project). `MPL-2.0` `Python`
+- OpenLABEL
+  - [Video Content Description (VCD)](https://github.com/Vicomtech/video-content-description-VCD) - API for creating and editing JSON data compliant with OpenLabel 1.0. `MIT` `Python` `TypeScript` `C++`
 
 ## Data Structures & Models
 
