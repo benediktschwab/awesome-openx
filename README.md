@@ -52,6 +52,7 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
 
 - [OpenMaterial](https://github.com/LudwigFriedmann/OpenMaterial) - [glTF](https://github.com/KhronosGroup/glTF) extension for physical material properties in 3D models with pathtracer implementation. `MPL-2.0` `JSON`
 - [Open Simulation Interface (OSI)](https://opensimulationinterface.github.io/osi-documentation/) - Generic interface based on [protobuf](https://github.com/protocolbuffers/protobuf) for the environmental perception of automated driving functions in virtual scenarios. ([Source Code](https://github.com/OpenSimulationInterface/open-simulation-interface)) `MPL-2.0`
+- [OpenMSL](https://github.com/openmsl) - The Open Source Model & Simulation Library is a central hub demonstrating the interaction between models, standards and tools. `MPL-2.0`
 
 ## Datasets
 
