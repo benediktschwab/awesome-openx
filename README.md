@@ -13,6 +13,7 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
 - [Libraries](#libraries)
 - [Data Structures & Models](#data-structures--models)
 - [Datasets](#datasets)
+- [Miscellaneous](#miscellaneous)
 
 --------------------
 
@@ -23,14 +24,14 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
 - [esmini](https://github.com/esmini/esmini) - OpenSCENARIO player. ([Source Code](https://github.com/esmini/esmini)) `MPL-2.0` `C++`
 - [OpenRoadEd](https://github.com/fhwedel-hoe/OpenRoadEd) - GUI application to create road networks in OpenDRIVE and a corresponding graphical representation in OpenSceneGraph. ([Source Code](https://github.com/fhwedel-hoe/OpenRoadEd)) `C++`
 - [ODDLOT](https://www.hlrs.de/solutions-services/service-portfolio/visualization/driving-simulator/oddlot/) - GUI application for the creation of road networks and graphical representations as part of [COVISE](https://www.hlrs.de/covise/). ([Source Code](https://github.com/hlrs-vis/covise/tree/master/src/OpenCOVER/DrivingSim/oddlot)) `LGPL-2.1` `C++`
-- [Blender Driving Scenario Creator](https://github.com/johschmitz/blender-driving-scenario-creator) - Blender add-on for creating simple OpenDRIVE and OpenSCENARIO based driving scenarios including 3D models. `GPL-3.0` `Python`
+- [Blender Driving Scenario Creator](https://github.com/johschmitz/blender-driving-scenario-creator) - Blender add-on for creating simple OpenDRIVE and OpenSCENARIO-based driving scenarios, including 3D models. `GPL-3.0` `Python`
 - [Unreal Engine OpenDRIVE plugin](https://github.com/brifsttar/OpenDRIVE) - Plugin for creating and manipulating OpenDRIVE road networks based [esmini](https://github.com/esmini/esmini)'s [RoadManager](https://github.com/esmini/esmini/tree/master/EnvironmentSimulator/Modules/RoadManager). `MPL-2.0` `C++`
 
 ## Converters
 
 - [r:trån](https://rtron.io) - Transformer of OpenDRIVE geometries and semantics to CityGML enabling the usage of the [3dcitydb](https://github.com/3dcitydb/3dcitydb), [FME](https://www.safe.com/fme/) and much more. ([Source Code](https://github.com/tum-gis/rtron), [Demos](https://rtron.io)) `Apache-2.0` `Kotlin`
 - [OpenDRIVE2Lanelet Converter](https://commonroad.in.tum.de/opendrive_lanelet_converter) - Python converter of OpenDRIVE datasets to the Lanelet format as part of the [CommonRoad](https://commonroad.in.tum.de) project. ([Source Code](https://gitlab.lrz.de/tum-cps/opendrive2lanelet/-/tree/master)) `GPL-3.0` `Python`
-- [OpenDRIVE to NetworkX and GeoPandas Converter](https://github.com/larsklitzke/xodr2nxgpd/) - Converter of OpenDRIVE geometries to [`geopandas.GeoDataFrame`](https://geopandas.org/en/stable/docs/reference/api/geopandas.GeoDataFrame.html) and network intersections to [NetworkX](https://networkx.org/), usind OpenDRIVE2Lanelet Converter. `MIT` `Python`
+- [OpenDRIVE to NetworkX and GeoPandas Converter](https://github.com/larsklitzke/xodr2nxgpd/) - Converter of OpenDRIVE geometries to [`geopandas.GeoDataFrame`](https://geopandas.org/en/stable/docs/reference/api/geopandas.GeoDataFrame.html) and network intersections to [NetworkX](https://networkx.org/), using OpenDRIVE2Lanelet Converter. `MIT` `Python`
 - [GDAL Driver](https://github.com/DLR-TS/gdal) - OpenDRIVE driver for the library [GDAL](https://gdal.org) (translation of raster and vector geospatial data). `C++`
 - [osm2opendrive](https://github.com/CWGran/osm2opendrive) - Tool for generating OpenDRIVE datasets from OpenStreetMap data. `GPL-3.0` `Python`
 - [osm2xodr](https://github.com/JHMeusener/osm2xodr) - Tool for generating OpenDRIVE datasets from OpenStreetMap data. `GPL-3.0` `Python`
@@ -69,3 +70,7 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
   - [ODDLOT](https://github.com/hlrs-vis/covise/tree/master/src/OpenCOVER/DrivingSim/oddlot/samples) - Sample datasets distributed as part of ODDLOT project.
 - OpenSCENARIO
   - [OSC-ALKS-scenarios](https://github.com/asam-oss/OSC-ALKS-scenarios) - Test scenarios for the approval of an "Automated Lane Keeping System" on motorways according to the [ALKS Regulation UN R157](https://undocs.org/ECE/TRANS/WP.29/2020/81). `CC-BY-SA-4.0`
+
+## Miscellaneous
+
+- Nicco Hagedorn's [YouTube channel](https://www.youtube.com/watch?v=2pX2dJL0Jnc&list=PLUv2R7fQV7GVLgrCzrtyAnLUzdtjYx9N9&index=6) - Concise explanations of the OpenDRIVE concepts along with practical examples compiled in a video series.
