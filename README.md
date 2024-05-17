@@ -44,7 +44,7 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
   - [odrSpiral](https://github.com/DLR-TS/odrSpiral) - C++ implementation of euler spirals (clothoids). `Apache-2.0` `C++`
   - [libOpenDRIVE](https://github.com/grepthat/libOpenDRIVE) - Lightweight, fast C++ library providing OpenDRIVE file parsing and 3D model generation as well as a [web-based viewer](https://odrviewer.io/). `Apache-2.0` `C++`
 - OpenSCENARIO
-  - [openscenario.api.test](https://github.com/RA-Consulting-GmbH/openscenario.api.test) - Java library for reading and processing scenarios (C++ in progress). `Apache-2.0` `Java`
+  - [openscenario.api.test](https://github.com/RA-Consulting-GmbH/openscenario.api.test) - Java library for reading and processing scenarios. `Apache-2.0` `C++`
 - OpenSCENARIO + OpenDRIVE
   - [scenariogeneration](https://github.com/pyoscx/scenariogeneration) - Python wrapper for parametrizing and generating linked OpenSCENARIO and OpenDRIVE datasets (formerly known as [pyodrx](https://github.com/pyoscx/pyodrx) & [pyoscx](https://github.com/pyoscx/pyoscx) project). `MPL-2.0` `Python`
 - OpenLABEL
@@ -61,10 +61,10 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
 - OpenDRIVE
   - [ASAM OpenDRIVE 1.7.0](https://www.asam.net/standards/detail/opendrive/) - Along with the official standard specification, example OpenDRIVE 1.7.0 datasets are distributed by ASAM.
   - [3D Mapping Solutions](https://www.3d-mapping.de/en/customer-area/) - Seven surveyed tracks in OpenDRIVE and partly in OpenCRG, including a complex intersection and the inner city of Ingolstadt (complementary to [LoD3 models](https://github.com/savenow/lod3-road-space-models)). `CC-BY-NC-SA-4.0`
+  - [German Autobahn A9](https://mobilithek.info/offers/573178449617657856) - Two sections of the German Autobahn A9 with a total length of 52km ([temporary mirror](https://github.com/tum-gis/opendrive-testfeld-a9)).
   - [Brunswick ring road](https://zenodo.org/record/4043193) - Inner ring road of Brunswick surveyed in 2012 by 3D Mapping Solutions. `CC-BY-4.0`
   - [Brunswick ring road to airport](https://zenodo.org/record/7071846) - ViVre research track in Brunswick surveyed in 2021 by 3D Mapping Solutions. `CC-BY-4.0`
   - [Wolfsburg](https://zenodo.org/record/7072631) - 5G Living Lab research track in Wolfsburg surveyed in 2022 by Atlatec. `CC-BY-4.0`
-  - [German Autobahn A9](https://service.mdm-portal.de/mdm-portal-application/publDetail.do?publicationId=2594000) - Two sections of the German Autobahn A9 with a total length of 52km.
   - [CARLA](https://github.com/carla-simulator/opendrive-test-files) - A set of seven road networks generated with MathWorks RoadRunner.
   - [esmini](https://github.com/esmini/esmini/tree/master/resources/xodr) - Sample datasets distributed as part of esmini project.
   - [ODDLOT](https://github.com/hlrs-vis/covise/tree/master/src/OpenCOVER/DrivingSim/oddlot/samples) - Sample datasets distributed as part of ODDLOT project.
