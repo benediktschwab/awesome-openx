@@ -49,6 +49,8 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
   - [scenariogeneration](https://github.com/pyoscx/scenariogeneration) - Python wrapper for parametrizing and generating linked OpenSCENARIO and OpenDRIVE datasets (formerly known as [pyodrx](https://github.com/pyoscx/pyodrx) & [pyoscx](https://github.com/pyoscx/pyoscx) project). `MPL-2.0` `Python`
 - OpenLABEL
   - [Video Content Description (VCD)](https://github.com/Vicomtech/video-content-description-VCD) - API for creating and editing JSON data compliant with OpenLabel 1.0. `MIT` `Python` `TypeScript` `C++`
+- Open Simulation Interface (OSI)
+  - [OpenSimulationInterface.CSharp](https://github.com/thempen/open-simulation-interface-csharp) - [NuGet](https://www.nuget.org/packages/OpenSimulationInterface.CSharp) package for using OSI in C#/.NET. `MPL-2.0` `C#` `Protobuf`
 
 ## Data Structures & Models
 
