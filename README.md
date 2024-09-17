@@ -72,7 +72,8 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
   - [esmini](https://github.com/esmini/esmini/tree/master/resources/xodr) - Sample datasets distributed as part of esmini project.
   - [ODDLOT](https://github.com/hlrs-vis/covise/tree/master/src/OpenCOVER/DrivingSim/oddlot/samples) - Sample datasets distributed as part of ODDLOT project.
 - OpenSCENARIO
-  - [OSC-ALKS-scenarios](https://github.com/asam-oss/OSC-ALKS-scenarios) - Test scenarios for the approval of an "Automated Lane Keeping System" on motorways according to the [ALKS Regulation UN R157](https://undocs.org/ECE/TRANS/WP.29/2020/81). `CC-BY-SA-4.0`
+  - [OSC-ALKS-scenarios](https://github.com/asam-oss/OSC-ALKS-scenarios) - Test scenarios for the approval of an "Automated Lane Keeping System" on motorways according to the [ALKS Regulation UN R157](https://undocs.org/ECE/TRANS/WP.29/2020/81). `MPL-2.0`
+  - [OSC-NCAP-scenarios](https://github.com/vectorgrp/OSC-NCAP-scenarios) - Test scenarios for the verification of "Automated Emergency Braking (AEB)" and "Lane Support Systems (LSS)" according to [Euro NCAP](https://www.euroncap.com/) protocols. `MPL-2.0`
 
 ## Miscellaneous
 
