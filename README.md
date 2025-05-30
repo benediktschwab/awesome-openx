@@ -65,10 +65,11 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
   - [ASAM OpenDRIVE 1.7.0](https://www.asam.net/standards/detail/opendrive/) - Along with the official standard specification, example OpenDRIVE 1.7.0 datasets are distributed by ASAM.
   - [3D Mapping Solutions](https://www.3d-mapping.de/en/customer-area/) - Seven surveyed tracks in OpenDRIVE and partly in OpenCRG, including a complex intersection and the inner city of Ingolstadt (complementary to [LoD3 models](https://github.com/savenow/lod3-road-space-models)). `CC-BY-NC-SA-4.0`
   - [German Autobahn A9](https://mobilithek.info/offers/573178449617657856) - Two sections of the German Autobahn A9 with a total length of 52km ([Mirror](https://github.com/tum-gis/opendrive-testfeld-a9)).
-  - [Brunswick ring road](https://zenodo.org/record/4043193) - Inner ring road of Brunswick surveyed in 2012 by 3D Mapping Solutions. `CC-BY-4.0`
   - [TUMDOT-MUC](https://www.mos.ed.tum.de/en/vt/research/data-sets/tumdot-muc/) - Vehicle trajectories observed from aerial drones with accompanied OpenDRIVE map. ([Article](https://doi.org/10.1007/s42421-024-00101-5)) `CC-BY-NC-4.0`
-  - [Brunswick ring road to airport](https://zenodo.org/record/7071846) - ViVre research track in Brunswick surveyed in 2021 by 3D Mapping Solutions. `CC-BY-4.0`
-  - [Wolfsburg](https://zenodo.org/record/7072631) - 5G Living Lab research track in Wolfsburg surveyed in 2022 by Atlatec. `CC-BY-4.0`
+  - [Brunswick "Schwarzer Berg"](https://doi.org/10.5281/zenodo.15395839) - "Schwarzer Berg" region in Brunswick surveyed in 2024 by 3D Mapping Solutions. `CC-BY-4.0`
+  - [Brunswick ring road](https://doi.org/10.5281/zenodo.4043192) - Inner ring road of Brunswick surveyed in 2012 by 3D Mapping Solutions. `CC-BY-4.0`
+  - [Brunswick ring road to airport](https://doi.org/10.5281/zenodo.7071845) - ViVre research track in Brunswick surveyed in 2021 by 3D Mapping Solutions. `CC-BY-4.0`
+  - [Wolfsburg](https://doi.org/10.5281/zenodo.7072630) - 5G Living Lab research track in Wolfsburg surveyed in 2022 by Atlatec. `CC-BY-4.0`
   - [CARLA](https://github.com/carla-simulator/opendrive-test-files) - A set of seven road networks generated with MathWorks RoadRunner.
   - [esmini](https://github.com/esmini/esmini/tree/master/resources/xodr) - Sample datasets distributed as part of esmini project.
   - [ODDLOT](https://github.com/hlrs-vis/covise/tree/master/src/OpenCOVER/DrivingSim/oddlot/samples) - Sample datasets distributed as part of ODDLOT project.
