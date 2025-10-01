@@ -73,6 +73,7 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
   - [CARLA](https://github.com/carla-simulator/opendrive-test-files) - A set of seven road networks generated with MathWorks RoadRunner.
   - [esmini](https://github.com/esmini/esmini/tree/master/resources/xodr) - Sample datasets distributed as part of esmini project.
   - [ODDLOT](https://github.com/hlrs-vis/covise/tree/master/src/oddlot/samples) - Sample datasets distributed as part of ODDLOT project.
+  - [ZalaZONE](https://github.com/BMEAutomatedDrive/ZalaZONE-automotive-proving-ground-virtual-simulation-models/tree/master/OpenDrive) - A set of road networks for the ZalaZONE automotive proving ground created with MathWorks RoadRunner. `MIT`
 - OpenSCENARIO
   - [OSC-ALKS-scenarios](https://github.com/openMSL/sl-3-1-osc-alks-scenarios) - Test scenarios for the approval of an "Automated Lane Keeping System" on motorways according to the [ALKS Regulation UN R157](https://undocs.org/ECE/TRANS/WP.29/2020/81). `MPL-2.0`
   - [OSC-NCAP-scenarios](https://github.com/vectorgrp/OSC-NCAP-scenarios) - Test scenarios for the verification of "Automated Emergency Braking (AEB)" and "Lane Support Systems (LSS)" according to [Euro NCAP](https://www.euroncap.com/) protocols. `MPL-2.0`
