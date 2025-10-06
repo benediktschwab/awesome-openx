@@ -77,6 +77,8 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
 - OpenSCENARIO
   - [OSC-ALKS-scenarios](https://github.com/openMSL/sl-3-1-osc-alks-scenarios) - Test scenarios for the approval of an "Automated Lane Keeping System" on motorways according to the [ALKS Regulation UN R157](https://undocs.org/ECE/TRANS/WP.29/2020/81). `MPL-2.0`
   - [OSC-NCAP-scenarios](https://github.com/vectorgrp/OSC-NCAP-scenarios) - Test scenarios for the verification of "Automated Emergency Braking (AEB)" and "Lane Support Systems (LSS)" according to [Euro NCAP](https://www.euroncap.com/) protocols. `MPL-2.0`
+- OpenMATERIAL-3D
+  - [OpenX-Assets](https://github.com/bounverif/openx-assets) - 3D vehicle models using ASAM OpenX standards
 
 ## Miscellaneous
 
