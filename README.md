@@ -55,7 +55,7 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
 
 ## Data Structures & Models
 
-- [OpenMaterial](https://github.com/asam-ev/OpenMATERIAL-3D) - [glTF](https://github.com/KhronosGroup/glTF) extension for physical material properties in 3D models with pathtracer implementation. `MPL-2.0` `JSON`
+- [OpenMATERIAL 3D](https://github.com/asam-ev/OpenMATERIAL-3D) - 3D model exchange format with physical material properties for virtual development, test and validation of automated driving. `MPL-2.0` `JSON`
 - [Open Simulation Interface (OSI)](https://opensimulationinterface.github.io/osi-documentation/) - Generic interface based on [protobuf](https://github.com/protocolbuffers/protobuf) for the environmental perception of automated driving functions in virtual scenarios. ([Source Code](https://github.com/OpenSimulationInterface/open-simulation-interface)) `MPL-2.0`
 - [OpenMSL](https://github.com/openmsl) - The Open Source Model & Simulation Library is a central hub demonstrating the interaction between models, standards and tools. `MPL-2.0`
 
@@ -77,7 +77,7 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
 - OpenSCENARIO
   - [OSC-ALKS-scenarios](https://github.com/openMSL/sl-3-1-osc-alks-scenarios) - Test scenarios for the approval of an "Automated Lane Keeping System" on motorways according to the [ALKS Regulation UN R157](https://undocs.org/ECE/TRANS/WP.29/2020/81). `MPL-2.0`
   - [OSC-NCAP-scenarios](https://github.com/vectorgrp/OSC-NCAP-scenarios) - Test scenarios for the verification of "Automated Emergency Braking (AEB)" and "Lane Support Systems (LSS)" according to [Euro NCAP](https://www.euroncap.com/) protocols. `MPL-2.0`
-- OpenMATERIAL-3D
+- OpenMATERIAL 3D
   - [OpenX-Assets](https://github.com/bounverif/openx-assets) - 3D vehicle models using ASAM OpenX standards
 
 ## Miscellaneous
