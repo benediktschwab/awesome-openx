@@ -27,6 +27,7 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
 - [Blender Driving Scenario Creator](https://github.com/johschmitz/blender-driving-scenario-creator) - Blender add-on for creating simple OpenDRIVE and OpenSCENARIO-based driving scenarios, including 3D models. `GPL-3.0` `Python`
 - [Unreal Engine OpenDRIVE plugin](https://github.com/brifsttar/OpenDRIVE) - Plugin for creating and manipulating OpenDRIVE road networks based [esmini](https://github.com/esmini/esmini)'s [RoadManager](https://github.com/esmini/esmini/tree/master/EnvironmentSimulator/Modules/RoadManager). `MPL-2.0` `C++`
 - [LaneMaker](https://github.com/guotata1996/lanemaker) - Qt5 GUI application for creation of 3D road networks which can be exported to OpenDRIVE `Apache-2.0` `C++`
+- [OSC2 Studio](https://osc2studio.online) - Online OpenSCENARIO DSL (OpenSCENARIO 2.0) editor featuring syntax highlighting, code completion, and real-time error checking. More features in development. Built with web technologies for instant access—no installation required. Core engine powered by C++ and WebAssembly for outstanding performance.
 
 ## Converters
 
