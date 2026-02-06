@@ -69,6 +69,7 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
   - [Brunswick "Schwarzer Berg"](https://doi.org/10.5281/zenodo.15395839) - "Schwarzer Berg" region in Brunswick surveyed in 2024 by 3D Mapping Solutions. `CC-BY-4.0`
   - [Brunswick ring road](https://doi.org/10.5281/zenodo.4043192) - Inner ring road of Brunswick surveyed in 2012 by 3D Mapping Solutions. `CC-BY-4.0`
   - [Brunswick ring road to airport](https://doi.org/10.5281/zenodo.7071845) - ViVre research track in Brunswick surveyed in 2021 by 3D Mapping Solutions. `CC-BY-4.0`
+  - [Test Bed Lower Saxony](https://doi.org/10.5281/zenodo.18498007) - With parts of the German motorways A2, A391, A39 and of the country road L295 around Brunswick and Wolfsburg, surveyed in 2019 by Atlatec. `CC-BY-NC-SA-4.0`
   - [Wolfsburg](https://doi.org/10.5281/zenodo.7072630) - 5G Living Lab research track in Wolfsburg surveyed in 2022 by Atlatec. `CC-BY-4.0`
   - [CARLA](https://github.com/carla-simulator/opendrive-test-files) - A set of seven road networks generated with MathWorks RoadRunner.
   - [esmini](https://github.com/esmini/esmini/tree/master/resources/xodr) - Sample datasets distributed as part of esmini project.
